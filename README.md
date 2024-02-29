@@ -28,3 +28,5 @@ Para esta, verifique a collection exportada do Postman para se orientar, pois os
 #### Observação
 Database name: mentes-notaveis
 
+PS: Infelizmente o tempo era curto e o sistema de rotas ficou abaixo da expectativa. Com mais tempo, posso refatorar se for necessário.
+
